@@ -1,0 +1,8 @@
+ 
+spring:
+  marketplace:
+    password: nome
+  keyCloak:
+    password: secret
+  JackChan:
+    password: secret
