@@ -3,3 +3,5 @@ spring:
     password: nome
   keyCloak:
     password: secret
+  JackChan:
+    password: secret
