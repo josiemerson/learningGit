@@ -1,0 +1,5 @@
+spring:
+  marketplace:
+    password: nome
+  keyCloak:
+    password: 12381238-adjihquiwhe
