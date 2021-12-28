@@ -1,7 +1,8 @@
+ 
 spring:
   marketplace:
-    password: nome
+    password: nome123
   keyCloak:
-    password: secret
+    password: secret123
   JackChan:
     password: secret
